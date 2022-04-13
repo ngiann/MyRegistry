@@ -1,0 +1,6 @@
+name = "MyPrivateRegistry"
+uuid = "11353c6a-3072-4f39-979b-4cd4a004ce60"
+repo = "https://github.com/ngiann/MyRegistry"
+description = "My private registry"
+
+[packages]
