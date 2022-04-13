@@ -4,3 +4,4 @@ repo = "https://github.com/ngiann/MyRegistry"
 description = "My private registry"
 
 [packages]
+9d3c0a80-2a07-4549-acfe-7a6c9ee150ac = { name = "DeterministicESN", path = "D/DeterministicESN" }

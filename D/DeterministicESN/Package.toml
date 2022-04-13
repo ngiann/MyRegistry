@@ -1,0 +1,3 @@
+name = "DeterministicESN"
+uuid = "9d3c0a80-2a07-4549-acfe-7a6c9ee150ac"
+repo = "https://github.com/ngiann/DeterministicESN.jl"
