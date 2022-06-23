@@ -1,0 +1,3 @@
+name = "ESNAutoencoder"
+uuid = "cb277d27-4572-457a-a8ee-2696a40688ee"
+repo = "https://github.com/ngiann/ESNAutoencoder.jl"
