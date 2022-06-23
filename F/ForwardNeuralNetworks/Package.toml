@@ -1,0 +1,3 @@
+name = "ForwardNeuralNetworks"
+uuid = "41bbd1a4-0eca-4bcd-b6b1-8656d032eaeb"
+repo = "https://github.com/ngiann/ForwardNeuralNetworks.jl"
