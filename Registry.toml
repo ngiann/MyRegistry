@@ -10,3 +10,4 @@ description = "My private registry"
 9d3c0a80-2a07-4549-acfe-7a6c9ee150ac = { name = "DeterministicESN", path = "D/DeterministicESN" }
 b1f9d165-0aea-4f74-aae5-734db6245639 = { name = "ApproximateVIUtilities", path = "A/ApproximateVIUtilities" }
 cb277d27-4572-457a-a8ee-2696a40688ee = { name = "ESNAutoencoder", path = "E/ESNAutoencoder" }
+ea5a6cf0-6c34-4305-a4f4-b4303448266d = { name = "FFTConvolution", path = "F/FFTConvolution" }
