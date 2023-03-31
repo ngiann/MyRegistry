@@ -1,0 +1,3 @@
+name = "SimpleRegressionGP"
+uuid = "bc18901c-f663-4665-a286-cf64e7af24b0"
+repo = "https://github.com/ngiann/SimpleRegressionGP.jl.git"
