@@ -1,0 +1,5 @@
+[1]
+HCubature = "1.5.0-1"
+QuadGK = "2.8.0-2"
+StatsFuns = "1.3.0-1"
+julia = "1"
