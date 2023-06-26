@@ -8,6 +8,7 @@ description = "My private registry"
 2a76aaee-6cc6-4ca2-80f5-934569e3e54d = { name = "SphericalVI", path = "S/SphericalVI" }
 41bbd1a4-0eca-4bcd-b6b1-8656d032eaeb = { name = "ForwardNeuralNetworks", path = "F/ForwardNeuralNetworks" }
 6b89a223-e31d-4a8a-8cfc-426c8f4cf287 = { name = "RBFLVM", path = "R/RBFLVM" }
+6ea1172f-fa91-4ee9-ad52-4fb4d7d7d82f = { name = "Nemesisdata", path = "N/Nemesisdata" }
 9d3c0a80-2a07-4549-acfe-7a6c9ee150ac = { name = "DeterministicESN", path = "D/DeterministicESN" }
 b1f9d165-0aea-4f74-aae5-734db6245639 = { name = "ApproximateVIUtilities", path = "A/ApproximateVIUtilities" }
 bc18901c-f663-4665-a286-cf64e7af24b0 = { name = "SimpleRegressionGP", path = "S/SimpleRegressionGP" }
