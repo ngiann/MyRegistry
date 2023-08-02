@@ -1,12 +1,18 @@
 [1]
-Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
-NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
-NormalisedNets = "32a276b1-fdac-4448-a3ee-c7eb514ec0f9"
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
-PPCASpectra = "4bc70558-c007-47c0-a71b-57423cb29c3c"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 ReverseDiff = "37e2e3b7-166d-5795-8a7a-e32c996b4267"
 StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
+
+["1-1.0.1"]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
+NormalisedNets = "32a276b1-fdac-4448-a3ee-c7eb514ec0f9"
+PPCASpectra = "4bc70558-c007-47c0-a71b-57423cb29c3c"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
+["1.0.2-1"]
+BlackBoxOptim = "a134a8b2-14d6-55f6-9291-3336d3ab0209"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
