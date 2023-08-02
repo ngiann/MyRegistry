@@ -1,5 +1,6 @@
 # MyRegistry
-My private registry for my own packages
+My private registry for my own packages.
+Registry for data is [here](https://github.com/ngiann/MyData).
 
 ### Register new package
 
