@@ -13,6 +13,9 @@ NormalisedNets = "32a276b1-fdac-4448-a3ee-c7eb514ec0f9"
 PPCASpectra = "4bc70558-c007-47c0-a71b-57423cb29c3c"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
+["1.0.14-1"]
+ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
+
 ["1.0.2-1"]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
