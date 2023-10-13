@@ -1,0 +1,3 @@
+name = "DiscretisedConvolution"
+uuid = "0e2f0d3a-ed58-4e79-b814-416dbf662698"
+repo = "https://github.com/ngiann/DiscretisedConvolution.jl.git"
