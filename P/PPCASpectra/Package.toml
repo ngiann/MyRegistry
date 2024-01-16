@@ -1,0 +1,3 @@
+name = "PPCASpectra"
+uuid = "4bc70558-c007-47c0-a71b-57423cb29c3c"
+repo = "https://github.com/ngiann/PPCASpectra.jl"
