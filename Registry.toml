@@ -12,6 +12,7 @@ description = "My private registry"
 32a276b1-fdac-4448-a3ee-c7eb514ec0f9 = { name = "NormalisedNets", path = "N/NormalisedNets" }
 41bbd1a4-0eca-4bcd-b6b1-8656d032eaeb = { name = "ForwardNeuralNetworks", path = "F/ForwardNeuralNetworks" }
 4bc70558-c007-47c0-a71b-57423cb29c3c = { name = "PPCASpectra", path = "P/PPCASpectra" }
+514699ec-cad0-4573-b799-e90939df45ca = { name = "ExponentialExpectations", path = "E/ExponentialExpectations" }
 640a3bb9-347f-47c9-97d8-5dcc1a651101 = { name = "ConvolvedGaussianProcesses", path = "C/ConvolvedGaussianProcesses" }
 6b89a223-e31d-4a8a-8cfc-426c8f4cf287 = { name = "RBFLVM", path = "R/RBFLVM" }
 99dd9245-5fd5-4439-81a6-2183e70e1908 = { name = "ConvolvedKernel", path = "C/ConvolvedKernel" }
