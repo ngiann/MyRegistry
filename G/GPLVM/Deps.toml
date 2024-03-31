@@ -23,5 +23,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
-["1.0.5-1"]
+["1.0.5"]
 GPLVMplus_experiments = "29452966-554d-45f8-8f51-f16ef1f654f2"
