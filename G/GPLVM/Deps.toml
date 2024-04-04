@@ -25,3 +25,6 @@ LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 ["1.0.5"]
 GPLVMplus_experiments = "29452966-554d-45f8-8f51-f16ef1f654f2"
+
+["1.0.9-1"]
+Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
