@@ -10,10 +10,12 @@ Optim = "429524aa-4258-5aef-a3af-852621145aeb"
 PPCASpectra = "4bc70558-c007-47c0-a71b-57423cb29c3c"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
-QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
+["1-1.0.10"]
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
 
 ["1-1.0.3"]
 VisualisationData = "33e6b0f2-e1e6-4837-8bdd-d818c49b0581"
@@ -22,6 +24,9 @@ VisualisationData = "33e6b0f2-e1e6-4837-8bdd-d818c49b0581"
 Optimization = "7f7a1694-90dd-40f0-9382-eb1efda571ba"
 OptimizationBBO = "3e6eede4-6085-4f62-9a71-46d9bc1eb92b"
 OptimizationOptimJL = "36348300-93cb-4f02-beb5-3c3902f8871e"
+
+["1.0.11-1"]
+LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
 
 ["1.0.2-1"]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
