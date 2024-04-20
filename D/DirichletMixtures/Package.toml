@@ -1,0 +1,3 @@
+name = "DirichletMixtures"
+uuid = "e6e86137-ec06-4dea-a34b-17dcf4ebba02"
+repo = "https://github.com/ngiann/DirichletMixtures.jl"

@@ -26,4 +26,5 @@ c315eb13-d14d-45c6-a93f-2ca8f34325ea = { name = "CDFIntegrals", path = "C/CDFInt
 c977da63-dc55-4e90-9e9d-5cb77bb2d17a = { name = "LinearRegressionInputUncetainty", path = "L/LinearRegressionInputUncetainty" }
 cb277d27-4572-457a-a8ee-2696a40688ee = { name = "ESNAutoencoder", path = "E/ESNAutoencoder" }
 d42837a9-6870-44f6-82a5-99dcce1f8faa = { name = "GPLVM", path = "G/GPLVM" }
+e6e86137-ec06-4dea-a34b-17dcf4ebba02 = { name = "DirichletMixtures", path = "D/DirichletMixtures" }
 ea5a6cf0-6c34-4305-a4f4-b4303448266d = { name = "FFTConvolution", path = "F/FFTConvolution" }
