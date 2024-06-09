@@ -16,6 +16,7 @@ description = "My private registry"
 514699ec-cad0-4573-b799-e90939df45ca = { name = "ExponentialExpectations", path = "E/ExponentialExpectations" }
 640a3bb9-347f-47c9-97d8-5dcc1a651101 = { name = "ConvolvedGaussianProcesses", path = "C/ConvolvedGaussianProcesses" }
 6b89a223-e31d-4a8a-8cfc-426c8f4cf287 = { name = "RBFLVM", path = "R/RBFLVM" }
+6fc07f5b-fa7b-4f51-aead-263239aaf445 = { name = "ELBOfy", path = "E/ELBOfy" }
 99dd9245-5fd5-4439-81a6-2183e70e1908 = { name = "ConvolvedKernel", path = "C/ConvolvedKernel" }
 9ca1ba71-c229-46e3-8ae9-21d24b118006 = { name = "SloanUGRIZFilters", path = "S/SloanUGRIZFilters" }
 9d3c0a80-2a07-4549-acfe-7a6c9ee150ac = { name = "DeterministicESN", path = "D/DeterministicESN" }
