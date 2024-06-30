@@ -1,0 +1,3 @@
+name = "RBFnetwork"
+uuid = "020d689a-7d53-432e-9216-4f61b8e9d61d"
+repo = "https://github.com/ngiann/RBFnetwork.jl"
