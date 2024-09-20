@@ -1,0 +1,3 @@
+name = "BasicAugmentedLangrange"
+uuid = "afcdd506-c292-4d2d-8178-f26d054b8ebe"
+repo = "https://github.com/ngiann/BasicAugmentedLangrange.jl"
