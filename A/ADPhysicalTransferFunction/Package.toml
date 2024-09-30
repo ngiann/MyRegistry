@@ -1,0 +1,3 @@
+name = "ADPhysicalTransferFunction"
+uuid = "6700a686-f114-44c7-a16d-e7e2a378161c"
+repo = "https://github.com/ngiann/ADPhysicalTransferFunction.jl"
