@@ -10,6 +10,7 @@ description = "My private registry"
 0e2f0d3a-ed58-4e79-b814-416dbf662698 = { name = "DiscretisedConvolution", path = "D/DiscretisedConvolution" }
 166650a0-0fc3-4b1f-af1e-de1563cd4596 = { name = "Azzalini2DDensity", path = "A/Azzalini2DDensity" }
 169c5df3-7e5a-4090-a9f6-c2764bef9338 = { name = "BasisForSpectra", path = "B/BasisForSpectra" }
+21605d96-f59a-48f1-9b8f-10329cb5ba4e = { name = "ELBOfyUtilities", path = "E/ELBOfyUtilities" }
 29452966-554d-45f8-8f51-f16ef1f654f2 = { name = "GPLVMplus_experiments", path = "G/GPLVMplus_experiments" }
 2a76aaee-6cc6-4ca2-80f5-934569e3e54d = { name = "SphericalVI", path = "S/SphericalVI" }
 32a276b1-fdac-4448-a3ee-c7eb514ec0f9 = { name = "NormalisedNets", path = "N/NormalisedNets" }
