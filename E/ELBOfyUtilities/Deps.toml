@@ -9,6 +9,9 @@ ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 BlackBoxOptim = "a134a8b2-14d6-55f6-9291-3336d3ab0209"
 Evolutionary = "86b6b26d-c046-49b6-aa0b-5f0f74682bd6"
 
+["1.0.12-1"]
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
 ["1.0.2-1"]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 
