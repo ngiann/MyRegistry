@@ -15,6 +15,9 @@ Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 ["1.0.13-1"]
 DifferentiationInterface = "a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63"
 
+["1.0.14-1"]
+OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
+
 ["1.0.2-1"]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 
