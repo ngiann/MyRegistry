@@ -8,6 +8,9 @@ Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
 ["1.0.19 - 1"]
 LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
 
+["1.0.22 - 1"]
+OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
+
 ["1.0.3 - 1"]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 
