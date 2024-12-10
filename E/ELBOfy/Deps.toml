@@ -14,6 +14,9 @@ OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
 ["1.0.24 - 1"]
 StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
 
+["1.0.25 - 1"]
+ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
+
 ["1.0.3 - 1"]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 
