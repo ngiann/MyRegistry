@@ -7,7 +7,7 @@ Interpolations = "0.14"
 ["0 - 0.1.6"]
 FFTW = "1.4.0-1"
 
-["0.1.24 - 0"]
+["0.1.24 - 0.1"]
 FFTW = "1.4.0-1"
 Interpolations = "0.14"
 
@@ -22,3 +22,8 @@ Interpolations = "0.14 - 0.15"
 
 ["0.1.9"]
 FFTW = "1.8.0 - 1"
+
+["0.2 - 0"]
+FFTW = "1.8.0 - 1"
+Interpolations = "0.15"
+QuadGK = "2.10.0 - 2"
