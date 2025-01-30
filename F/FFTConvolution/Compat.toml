@@ -27,3 +27,7 @@ FFTW = "1.8.0 - 1"
 FFTW = "1.8.0 - 1"
 Interpolations = "0.15"
 QuadGK = "2.10.0 - 2"
+
+["0.2.1 - 0"]
+DiscretisedConvolution = "0.1.6 - 0.1"
+LinearAlgebra = "1.11.0 - 1"
