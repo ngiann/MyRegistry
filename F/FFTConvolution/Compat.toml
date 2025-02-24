@@ -5,3 +5,6 @@ Interpolations = "0.15"
 LinearAlgebra = "1.11.0 - 1"
 QuadGK = "2.10.0 - 2"
 julia = "1"
+
+["0.2.4 - 0"]
+HCubature = "1.7.0 - 1"
