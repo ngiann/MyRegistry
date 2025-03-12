@@ -1,0 +1,3 @@
+name = "Seyfert1GalaxyIRAS_GaussianProcess"
+uuid = "de77907a-7cf9-4485-8c0f-fa5c5f8f445b"
+repo = "https://github.com/ngiann/Seyfert1GalaxyIRAS_GaussianProcess.jl"
