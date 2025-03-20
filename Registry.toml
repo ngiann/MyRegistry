@@ -21,6 +21,7 @@ description = "My private registry"
 6700a686-f114-44c7-a16d-e7e2a378161c = { name = "ADPhysicalTransferFunction", path = "A/ADPhysicalTransferFunction" }
 6b89a223-e31d-4a8a-8cfc-426c8f4cf287 = { name = "RBFLVM", path = "R/RBFLVM" }
 6fc07f5b-fa7b-4f51-aead-263239aaf445 = { name = "ELBOfy", path = "E/ELBOfy" }
+89a83b74-8f37-4a54-95ad-2bd27d2beab5 = { name = "COIL20", path = "C/COIL20" }
 99dd9245-5fd5-4439-81a6-2183e70e1908 = { name = "ConvolvedKernel", path = "C/ConvolvedKernel" }
 9ca1ba71-c229-46e3-8ae9-21d24b118006 = { name = "SloanUGRIZFilters", path = "S/SloanUGRIZFilters" }
 9d3c0a80-2a07-4549-acfe-7a6c9ee150ac = { name = "DeterministicESN", path = "D/DeterministicESN" }
