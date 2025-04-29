@@ -1,0 +1,3 @@
+name = "MixedVariationalInference"
+uuid = "54705dcd-d301-4b11-b688-15461ff0fa5a"
+repo = "https://github.com/ngiann/MixedVariationalInference.jl"
