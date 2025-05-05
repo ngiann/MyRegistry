@@ -1,0 +1,3 @@
+name = "ScaledInvariantGPLVMSpectraReconstruction"
+uuid = "24fb9fbc-8791-42f4-a5f4-27a61bb78bb8"
+repo = "https://github.com/ngiann/ScaledInvariantGPLVMSpectraReconstruction.jl"
