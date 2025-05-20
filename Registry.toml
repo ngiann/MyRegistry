@@ -14,6 +14,7 @@ description = "My private registry"
 24fb9fbc-8791-42f4-a5f4-27a61bb78bb8 = { name = "ScaledInvariantGPLVMSpectraReconstruction", path = "S/ScaledInvariantGPLVMSpectraReconstruction" }
 29452966-554d-45f8-8f51-f16ef1f654f2 = { name = "GPLVMplus_experiments", path = "G/GPLVMplus_experiments" }
 2a76aaee-6cc6-4ca2-80f5-934569e3e54d = { name = "SphericalVI", path = "S/SphericalVI" }
+2b0fa9ba-9b76-4d49-aa09-907878bd84b9 = { name = "ScaledInvariantGPLVMSpectraReconstructionSpectralData", path = "S/ScaledInvariantGPLVMSpectraReconstructionSpectralData" }
 32a276b1-fdac-4448-a3ee-c7eb514ec0f9 = { name = "NormalisedNets", path = "N/NormalisedNets" }
 41bbd1a4-0eca-4bcd-b6b1-8656d032eaeb = { name = "ForwardNeuralNetworks", path = "F/ForwardNeuralNetworks" }
 4bc70558-c007-47c0-a71b-57423cb29c3c = { name = "PPCASpectra", path = "P/PPCASpectra" }
