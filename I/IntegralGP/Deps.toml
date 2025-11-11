@@ -31,3 +31,6 @@ PolyesterForwardDiff = "98d1487c-24ca-40b6-b7ab-df2af84e126b"
 
 ["0.0.3 - 0"]
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+
+["0.0.4 - 0"]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
