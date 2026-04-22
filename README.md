@@ -2,6 +2,13 @@
 My private registry for my own packages.
 Registry for data is [here](https://github.com/ngiann/MyData).
 
+### Add this registry
+
+To add this registry, simply use in package mode:
+```
+registry add https://github.com/ngiann/MyRegistry
+```
+
 ### Register new package
 
 To register use, e.g:
