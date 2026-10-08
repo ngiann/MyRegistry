@@ -1,0 +1,3 @@
+name = "GaussianTransformMoments"
+uuid = "f25cf1d0-aeb1-4577-8bae-80dafe728336"
+repo = "https://github.com/ngiann/GaussianTransformMoments.jl"

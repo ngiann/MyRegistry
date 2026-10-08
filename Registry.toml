@@ -44,3 +44,4 @@ d42837a9-6870-44f6-82a5-99dcce1f8faa = { name = "GPLVM", path = "G/GPLVM" }
 de77907a-7cf9-4485-8c0f-fa5c5f8f445b = { name = "Seyfert1GalaxyIRAS_GaussianProcess", path = "S/Seyfert1GalaxyIRAS_GaussianProcess" }
 e6e86137-ec06-4dea-a34b-17dcf4ebba02 = { name = "DirichletMixtures", path = "D/DirichletMixtures" }
 ea5a6cf0-6c34-4305-a4f4-b4303448266d = { name = "FFTConvolution", path = "F/FFTConvolution" }
+f25cf1d0-aeb1-4577-8bae-80dafe728336 = { name = "GaussianTransformMoments", path = "G/GaussianTransformMoments" }
